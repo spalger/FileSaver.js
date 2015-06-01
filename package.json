@@ -1,0 +1,19 @@
+{
+  "name": "@spalger/filesaver",
+  "version": "1.0.0",
+  "description": "https://github.com/eligrey/FileSaver.js",
+  "main": "FileSaver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spalger/FileSaver.js.git"
+  },
+  "author": "Eli Grey <me@eligrey.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spalger/FileSaver.js/issues"
+  },
+  "homepage": "https://github.com/spalger/FileSaver.js#readme"
+}
